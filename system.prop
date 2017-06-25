@@ -12,7 +12,6 @@ ro.ril.scan.selection.rat=1
 ro.ril.set.mtusize=1422
 ro.ril.svdo=true
 ro.telephony.default_network=8
-telephony.lteOnCdmaDevice=1
 telephony.sms.pseudo_multipart=1
 
 # Carrier definitions
