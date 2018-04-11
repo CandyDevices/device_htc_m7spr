@@ -1,5 +1,7 @@
 $(call inherit-product, vendor/candy/config/common_full_phone.mk)
 
+$(call inherit-product, vendor/candy/config/caf_fw.mk)
+
 $(call inherit-product, vendor/candy/config/nfc_enhanced.mk)
 
 $(call inherit-product, device/htc/m7spr/full_m7spr.mk)
