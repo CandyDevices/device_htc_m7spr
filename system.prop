@@ -3,7 +3,7 @@
 
 # RIL - AOSP properties
 rild.libargs=-d /dev/smd0
-rild.libpath=/system/lib/libril-qc-qmi-1.so
+rild.libpath=/system/vendor/lib/libril-qc-qmi-1.so
 persist.radio.dont_use_dsd=true
 persist.radio.mode_pref_nv10=1
 persist.radio.snapshot_enabled=1
